@@ -10,7 +10,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-<title>Welcome to College Management system</title>
+<title>Welcome to CUSAT Student Activity Management system</title>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="jquery-1.11.0.js"></script>
 <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.css"/>
@@ -28,7 +28,7 @@
     </div>
 
     <div class="img_home_pos">
-        <a href="everyone.php"><img src="images/img21.jpg" height="90" alt="Rajasthan technical university" /></a><span class="header_pos">Rajasthan Technical University</span>
+        <a href="everyone.php"><img src="images/cusat.jpg" height="90" alt="School Of Engineering,CUSAT" /></a><span class="header_pos">CUSAT Student Activity Management System</span>
     </div><br>
 
                         <div class="dropdownmenu_container">
@@ -92,9 +92,5 @@
                     </div>
 		</div>
 	</div>
-
-      <!--  <div class="bottom_pos">
-            <a href="AboutManagement.php" style="text-decoration: none;">About management</a>
-        </div>-->
 </body>
 </html>
