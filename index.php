@@ -42,14 +42,14 @@
 <script type="text/javascript" src="bootstrap/js/bootstrap.js"></script>
 <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
 <link rel="stylesheet" type="text/css" href="css/login.css" />
-<title>Rajasthan Technical University | College management System.</title>
+<title>CSAMS</title>
 </head>
 
 <body>
 	<div class="container">
     	<div class="container2">
     		<div class="h1_pos">
-    			<h1>College authorities for only staff members. </h1>
+    			<h1>CUSAT Student Activity Management System</h1>
     		</div><br><br><br>
     		<form method="post">
                     <input type="text" class="form-control" name="unametxt" placeholder="Username" title="Enter username here" /><br>
