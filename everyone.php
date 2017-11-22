@@ -28,7 +28,7 @@
     </div>
 
     <div class="img_home_pos">
-        <a href="everyone.php"><img src="images/cusat.jpg" height="90" alt="School Of Engineering,CUSAT" /></a><span class="header_pos">CUSAT Student Activity Management System</span>
+        <a href="everyone.php"><img src="images/cusat-emblem.jpg" height="90" alt="School Of Engineering,CUSAT" /></a><span class="header_pos">CUSAT Student Activity Management System</span>
     </div><br>
 
                         <div class="dropdownmenu_container">
